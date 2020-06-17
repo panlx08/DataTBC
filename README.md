@@ -1,2 +1,3 @@
 # DataTBC
-Sorry, due to the impact of 2019-nCov, related information of this project will be updated soon.
+For the big data trading system implemented by the paper, please visit:
+https://github.com/panlx08/data-Trading
